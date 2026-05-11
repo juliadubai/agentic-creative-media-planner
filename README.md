@@ -26,6 +26,9 @@ The agent evaluates: Display (premium web, news, lifestyle, finance, etc.), Onli
 
 This stage outputs a structured recommendation including: best‑fit channels, rationale, format suggestions, contextual alignment, expected reach & engagement patterns, 
 
+**6. AdCP‑Aligned Budgeting**
+Applies AdCP logic to propose:budget ranges, format allocation, spend distribution, rationale tied to audience + creative + funnel stage
+
 **Project Structure**
 
 agentic-creative-media-planner/
